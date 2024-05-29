@@ -3,7 +3,7 @@ import project2 from "../assets/projects/project-2.png";
 import project3 from "../assets/projects/project-3.png";
 import project4 from "../assets/projects/project-4.png";
 
-export const MAIN = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 2 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, Python, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const MAIN = `Ready to code the Matrix and hack the web like Iron Man! I'm here to build the future, one robust app at a time!`;
 
 export const ABOUT_TEXT = `I am a dedicated full-stack developer with a love for designing effective and user-friendly web applications. Having 2 years of professional background enabled me to enhance my expertise in using various technologies like React, Next.js, Node.js, MySQL, Python and MongoDB. My venture into web development started with a strong interest in understanding how things operate, and it has transformed into a profession where I always aim to improve and face different challenges.`;
 
