@@ -26,9 +26,6 @@ const Navbar = () => {
         >
           <FaSpotify />
         </a>
-        <a href="https://leetcode.com/u/satyendra1010/" target="_blank">
-          {"</>"}
-        </a>
       </div>
     </nav>
   );

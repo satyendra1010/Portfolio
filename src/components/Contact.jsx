@@ -37,6 +37,12 @@ const Contact = () => {
         >
           {CONTACT.email}
         </a>
+        <a
+          href="https://www.linkedin.com/in/satyendrashrivastava/"
+          target="_blank"
+        >
+          <FaLinkedin />
+        </a>
       </div>
     </div>
   );
