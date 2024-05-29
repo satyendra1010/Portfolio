@@ -1,6 +1,7 @@
 import React from "react";
 import { CONTACT } from "../constants";
 import { motion } from "framer-motion";
+import { FaLinkedin } from "react-icons/fa";
 
 const Contact = () => {
   return (
@@ -13,7 +14,7 @@ const Contact = () => {
       >
         Get in touch.
       </motion.h1>
-      <div className="text-center tracking-tighter">
+      <div className="items-center text-center tracking-tighter">
         <motion.p
           whileInView={{ opacity: 1, x: 0 }}
           initial={{ opacity: 0, x: -100 }}
@@ -37,6 +38,8 @@ const Contact = () => {
         >
           {CONTACT.email}
         </a>
+      </div>
+      <div className="flex flex-wrap justify-center items-center my-2">
         <a
           href="https://www.linkedin.com/in/satyendrashrivastava/"
           target="_blank"
