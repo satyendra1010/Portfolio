@@ -3,9 +3,9 @@ import project2 from "../assets/projects/project-2.png";
 import project3 from "../assets/projects/project-3.png";
 import project4 from "../assets/projects/project-4.png";
 
-export const MAIN = `Ready to code the Matrix and hack the web like Iron Man! I'm here to build the future, one robust app at a time!`;
+export const MAIN = `A passionate and experienced Software Engineer with expertise in Cloud Computing, Distributed Systems, Computer Vision, and Data Visualization.`;
 
-export const ABOUT_TEXT = `I am a dedicated full-stack developer with a love for designing effective and user-friendly web applications. Having 2 years of professional background enabled me to enhance my expertise in using various technologies like React, Next.js, Node.js, MySQL, Python and MongoDB. My venture into web development started with a strong interest in understanding how things operate, and it has transformed into a profession where I always aim to improve and face different challenges.`;
+export const ABOUT_TEXT = `I am a dedicated full-stack developer with a love for designing effective and user-friendly web applications. Having 2 years of professional background enabled me to enhance my expertise in using various technologies like React, Next.js, Node.js, MySQL, Python and MongoDB. My venture into web development cloud computing, distributed systems, computer vision, and data visualization started with a strong interest in understanding how things operate, and it has transformed into a profession where I always aim to improve and face different challenges.`;
 
 export const EXPERIENCES = [
   {
