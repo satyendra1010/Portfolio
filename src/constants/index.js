@@ -2,6 +2,7 @@ import project1 from "../assets/projects/project-1.png";
 import project2 from "../assets/projects/project-2.png";
 import project3 from "../assets/projects/project-3.png";
 import project4 from "../assets/projects/project-4.png";
+import project5 from "../assets/projects/project 5.png";
 
 export const MAIN = `A passionate and experienced Software Engineer with expertise in Cloud Computing, Distributed Systems, Computer Vision, and Data Visualization.`;
 
@@ -51,6 +52,13 @@ export const PROJECTS = [
     description:
       "Developed an advanced Virtual Try-On system incorporating Augmented Reality (AR) and machine learning to revolutionize online shopping by allowing customers to view clothes in real-time.",
     technologies: ["React", "Python"],
+  },
+  {
+    title: "Sentiment Analysis Tool",
+    image: project5,
+    description:
+      "Developed a Python-based Sentiment Analysis Tool using NLTK and advanced NLP techniques, achieving 88.372% accuracy in sentiment detection.",
+    technologies: ["Python"],
   },
 ];
 
