@@ -1,7 +1,7 @@
 import React from "react";
 import { CONTACT } from "../constants";
 import { motion } from "framer-motion";
-import { FaLinkedin } from "react-icons/fa";
+import { FaLinkedin, FaDownload } from "react-icons/fa";
 
 const Contact = () => {
   return (
@@ -31,6 +31,24 @@ const Contact = () => {
         >
           {CONTACT.phoneNo}
         </motion.p>
+        <div className="flex flex-wrap justify-center items-center my-2">
+          <motion.p
+            whileInView={{ opacity: 1, x: 0 }}
+            initial={{ opacity: 0, x: 100 }}
+            transition={{ duration: 1 }}
+            className="my-4"
+          >
+            <a
+              href="src/assets/Satyendra Shrivastava Resume.pdf"
+              download="Satyendra_Shrivastava_Resume.pdf"
+            >
+              <button className="mr-2 rounded bg-neutral-900 hover:bg-neutral-700 text-small text-purple-600 font-bold py-2 px-4 flex items-center space-x-2">
+                <FaDownload />
+                <span>Resume</span>
+              </button>
+            </a>
+          </motion.p>
+        </div>
         <a
           href="mailto: satyendra1010@gmail.com"
           target="_blank"
