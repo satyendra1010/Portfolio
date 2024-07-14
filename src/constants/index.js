@@ -41,10 +41,19 @@ export const PROJECTS = [
     technologies: ["React", "AWS", "Python"],
   },
   {
-    title: 'Crypto Wallet',
+    title: "Algorithm Visualizer",
+    image: project5,
+    description:
+      "Created a dynamic sorting algorithm visualizer using Next.js 14 and TypeScript for educational purposes.",
+    technologies: ["Next.js"],
+    link: "https://satyendra1010.github.io/algorithm-visualizer/",
+  },
+  {
+    title: "Crypto Wallet",
     image: project3,
-    description: 'Utilized Reactjs and solidity to develop a decentralized application (DApp) for Ethereum Wallet, incorporating blockchain technology.',
-    technologies: ["React", "Solidity"]
+    description:
+      "Utilized Reactjs and solidity to develop a decentralized application (DApp) for Ethereum Wallet, incorporating blockchain technology.",
+    technologies: ["React", "Solidity"],
   },
   {
     title: "Try On",
@@ -53,17 +62,11 @@ export const PROJECTS = [
       "Developed an advanced Virtual Try-On system incorporating Augmented Reality (AR) and machine learning to revolutionize online shopping by allowing customers to view clothes in real-time.",
     technologies: ["React", "Python"],
   },
-  {
-    title: "Sentiment Analysis Tool",
-    image: project5,
-    description:
-      "Developed a Python-based Sentiment Analysis Tool using NLTK and advanced NLP techniques, achieving 88.372% accuracy in sentiment detection.",
-    technologies: ["Python"],
-  },
 ];
 
 export const CONTACT = {
-  description: "Let's grab a coffee and discuss how we can create something amazing together!",
+  description:
+    "Let's grab a coffee and discuss how we can create something amazing together!",
   phoneNo: "+1 6692829288",
   email: "satyendra1010@gmail.com",
 };
