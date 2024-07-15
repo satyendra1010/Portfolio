@@ -4,9 +4,11 @@ import project3 from "../assets/projects/project-3.png";
 import project4 from "../assets/projects/project-4.png";
 import project5 from "../assets/projects/project 5.png";
 
-export const MAIN = `A passionate and experienced Software Engineer with expertise in Cloud Computing, Distributed Systems, Computer Vision, and Data Visualization.`;
+export const MAIN = `A passionate and experienced Full Stack Developer with expertise in Cloud Computing, AI/ML (Computer Vision, NLP), and Web Technologies. From crafting responsive frontends to architecting scalable backends, I thrive on turning complex challenges into elegant digital solutions.`;
 
-export const ABOUT_TEXT = `I am a dedicated full-stack developer with a love for designing effective and user-friendly web applications. Having 2 years of professional background enabled me to enhance my expertise in using various technologies like React, Next.js, Node.js, MySQL, Python and MongoDB. My venture into web development cloud computing, distributed systems, computer vision, and data visualization started with a strong interest in understanding how things operate, and it has transformed into a profession where I always aim to improve and face different challenges.`;
+export const ABOUT_TEXT = ` Beyond the usual list of in-demand skills, I'm a full-stack developer with a passion for solving complex problems through code. With 2 years of experience, I've honed my expertise in React, Next.js, Node.js, MySQL, Python, and MongoDB. My journey began with curiosity about how things work and evolved into a career where I constantly seek new challenges.
+I thrive in the realms of web development, cloud computing, distributed systems, computer vision, and data visualization. My approach combines creativity with analytical thinking to craft effective, user-friendly solutions. I'm always eager to learn, adapt, and push the boundaries of what's possible in tech.
+Whether it's optimizing performance, enhancing user experience, or ensuring robust security, I bring more than just coding skills to the table. I'm a communicator, a collaborator, and a developer who turns complex concepts into elegant solutions. Let's build something amazing together!`;
 
 export const EXPERIENCES = [
   {
