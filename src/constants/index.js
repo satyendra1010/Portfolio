@@ -4,9 +4,9 @@ import project3 from "../assets/projects/project-3.png";
 import project4 from "../assets/projects/project-4.png";
 import project5 from "../assets/projects/project 5.png";
 
-export const MAIN = `A passionate and experienced Full Stack Developer with expertise in Cloud Computing, AI/ML (Computer Vision, NLP), and Web Technologies. From crafting responsive frontends to architecting scalable backends, I thrive on turning complex challenges into elegant digital solutions.`;
+export const MAIN = `Dedicated full-stack developer with 2+ years of experience in building scalable, high-performance web applications. Proficient in modern frontend and backend technologies, cloud services, and DevOps practices. Skilled in optimizing application performance, implementing microservices architectures, and ensuring robust security measures.`;
 
-export const ABOUT_TEXT = `I'm a full-stack developer with a passion for solving complex problems through code. With 2 years of experience, I've honed my expertise in React, Next.js, Node.js, MySQL, Python, and MongoDB. My journey began with curiosity about how things work and evolved into a career where I constantly seek new challenges.
+export const ABOUT_TEXT = `I'm a full-stack developer with a passion for solving complex problems through code. With 2+ years of experience, I've honed my expertise in React, Next.js, Node.js, MySQL, Python, and MongoDB. My journey began with curiosity about how things work and evolved into a career where I constantly seek new challenges.
 I thrive in the realms of web development, cloud computing, distributed systems, computer vision, and data visualization. My approach combines creativity with analytical thinking to craft effective, user-friendly solutions. I'm always eager to learn, adapt, and push the boundaries of what's possible in tech.
 Whether it's optimizing performance, enhancing user experience, or ensuring robust security, I bring more than just coding skills to the table. I'm a communicator, a collaborator, and a developer who turns complex concepts into elegant solutions. Let's build something amazing together!`;
 
